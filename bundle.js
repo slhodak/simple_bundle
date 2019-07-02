@@ -1,7 +1,4 @@
-const scripts = [
-  'demoFileA.js',
-  'demoFileB.js'
-];
+const scripts = [];
 
 let reference = document.getElementsByClassName('scripts')[0];
 
