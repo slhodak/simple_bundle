@@ -1,0 +1,8 @@
+Simple Bundle
+
+- Utilize browser support for JS modules with a simple script
+- Collects all javascript files and writes the necessary script tags to include them
+
+- list files in the order you want them included
+- edit the parameters of the function in bundle.js to include your files
+
