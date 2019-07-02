@@ -1,6 +1,7 @@
 const scripts = [
   'demoFileA.js',
-  'demoFileB.js'
+  'demoFileB.js',
+  './nested/nestedFile.js'
 ];
 
 let reference = document.getElementsByClassName('scripts')[0];
